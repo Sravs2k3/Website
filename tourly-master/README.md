@@ -24,9 +24,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Contact
+### Visit our website
 
-If you want to contact with me you can reach me at [email](21a31a4414@gmail.com).
+By clicking this you are redirect to our website [Tourly](https://globetrekker-tourly.netlify.app/).
 
 ### License
 
